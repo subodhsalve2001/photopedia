@@ -1,0 +1,33 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;400;600&display=swap');
+
+body{
+    background-color: black;
+}
+.hero {
+    position: relative;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+
+}
+
+.hero-title {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+}
+
+.hero-options {
+    font-size: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.options {
+    color: rgb(255, 170, 0);
+}
+
+

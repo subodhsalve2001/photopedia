@@ -1,0 +1,6 @@
+.topscroll {
+    max-height: 50px;
+    max-width: 50px;
+    background-color: rgb(249, 250, 249);
+    border-radius: 50%;
+}
